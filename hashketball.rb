@@ -16,4 +16,3 @@ Main_hash={my_hash(:home, stats), my_hash(:away, stats)}
 test_hash
 binding.pry
 game_hash
-
