@@ -14,4 +14,3 @@ stats=my_hash(:team_name, color).merge(my_hash(:colors,array_stat)).merge(my_has
 game_hash={my_hash(:home, stats), my_hash(:away, stats)}
 test_hash
 binding.pry
-
