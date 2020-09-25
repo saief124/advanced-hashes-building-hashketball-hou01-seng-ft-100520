@@ -1,4 +1,5 @@
 # Write your code here!
+require 'pry'
 def my_hash (key, value)
   {key=>value}
 end
@@ -11,3 +12,4 @@ Main_hash={my_hash(:home, stats), my_hash(:away, stats)}
 test_hash
 stats
 Main_hash
+binding.pry
