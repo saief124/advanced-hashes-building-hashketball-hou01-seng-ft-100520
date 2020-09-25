@@ -16,4 +16,3 @@ attributes=[]
 test_hash
 binding.pry
 game_hash
-
