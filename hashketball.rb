@@ -28,7 +28,7 @@ away_attributes=
   [:player_name=>"kemba_walker", :number=>33, :shoe =>15, :points =>6, :rebounds =>12, :assists =>12, :steals =>7, :blocks =>5, :slam_dunks=>12]
 ]
 
-
+binding.pry
 
 
 home_stats=my_hash(:team_name, home_team_name).merge(my_hash(:colors, home_team_color)).merge(my_hash(:players, home_attributes))
@@ -37,4 +37,4 @@ game_hash=my_hash(:home, home_stats).merge(my_hash(:away, away_stats))
 game_hash
 
 end
-#binding.pry
+
