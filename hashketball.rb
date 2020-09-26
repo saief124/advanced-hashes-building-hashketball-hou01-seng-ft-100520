@@ -11,11 +11,11 @@ home_team_color=["Black", "White"]
 away_team_name="Charlotte Hornets"
 away_team_color=["Turquoise", "Purple"]
 
-h_player1=["alan_anderson", "0", "16", "22", "12", "12", "3", "1", "1"]
-h_player2=["reggie_evans", "30", "14", "12", "12", "12", "12", "12", "7"]
-h_player3=["brook_lopez", "11", "17", "17", "19", "10", "3", "1", "15"]
-h_player4=["mason_plumlee", "1", "19", "26", "11", "6", "3", "8", "5"]
-h_player5=["jason_terry", "31", "15", "19", "2", "2", "4", "11", "1"]
+h_player1=["Alan Anderson", 0, 16, 22, 12, 12, 3, 1, 1]
+h_player2=["Reggie Evans", 30, 14, 12, 12, 12, 12, 12, 7]
+h_player3=["Brook Lopez", 11, 17, 17, 19, 10, 3, 1, 15]
+h_player4=["Mason Plumlee", 1, 19, 26, 11, 6, 3, 8, 5]
+h_player5=["Jason Terry", 31, 15, 19, 2, 2, 4, 11, 1]
 
 home_attributes=
 [
