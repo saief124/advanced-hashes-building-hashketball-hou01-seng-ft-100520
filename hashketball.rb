@@ -5,6 +5,7 @@ def my_hash (key, value)
 end
 
 def game_hash
+  binding.pry
 home_team_name="Brooklyn Nets"
 home_team_color=["Black", "White"]
 away_team_name="Charlotte Hornets"
@@ -39,5 +40,5 @@ away_stats=my_hash(:team_name, away_team_name).merge(my_hash(:colors, away_team_
 game_hash=my_hash(:home, home_stats).merge(my_hash(:away, away_stats))
 return game_hash
 
-#binding.pry
+
 end
