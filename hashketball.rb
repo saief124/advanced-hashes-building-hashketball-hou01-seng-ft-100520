@@ -18,11 +18,11 @@ h_player5=["jason_terry", "31", "15", "19", "2", "2", "4", "11", "1"]
 home_attributes=
 [
 
-  [{:player_name=> h_player1[0]}, {:number=> h_player1[1]}, {:shoe=> h_player1[2]}, {:points=> h_player1[3]}, {:rebounds=> h_player1[4]}, {:assists=> h_player1[5]}, {:steals=> h_player1[6]}, {:blocks=> h_player1[7]}, {:slam_dunks=> h_player1[8]}],
-  [{:player_name=> h_player2[0]}, {:number=> h_player2[1]}, {:shoe=> h_player2[2]}, {:points=> h_player2[3]}, {:rebounds=> h_player2[4]}, {:assists=> h_player2[5]}, {:steals=> h_player2[6]}, {:blocks=> h_player2[7]}, {:slam_dunks=> h_player2[8]}],
-  [{:player_name=> h_player3[0]}, {:number=> h_player3[1]}, {:shoe=> h_player3[2]}, {:points=> h_player3[3]}, {:rebounds=> h_player3[4]}, {:assists=> h_player3[5]}, {:steals=> h_player3[6]}, {:blocks=> h_player3[7]}, {:slam_dunks=> h_player3[8]}],
-  [{:player_name=> h_player4[0]}, {:number=> h_player4[1]}, {:shoe=> h_player4[2]}, {:points=> h_player4[3]}, {:rebounds=> h_player4[4]}, {:assists=> h_player4[5]}, {:steals=> h_player4[6]}, {:blocks=> h_player4[7]}, {:slam_dunks=> h_player4[8]}],
-  [{:player_name=> h_player5[0]}, {:number=> h_player5[1]}, {:shoe=> h_player5[2]}, {:points=> h_player5[3]}, {:rebounds=> h_player5[4]}, {:assists=> h_player5[5]}, {:steals=> h_player5[6]}, {:blocks=> h_player5[7]}, {:slam_dunks=> h_player5[8]}]
+  [[{:player_name=> h_player1[0]}], [{:number=> h_player1[1]}], [{:shoe=> h_player1[2]}], [{:points=> h_player1[3]}], [{:rebounds=> h_player1[4]}], [{:assists=> h_player1[5]}], [{:steals=> h_player1[6]}], [{:blocks=> h_player1[7]}], [{:slam_dunks=> h_player1[8]}]],
+  [[{:player_name=> h_player2[0]}], [{:number=> h_player2[1]}], [{:shoe=> h_player2[2]}], [{:points=> h_player2[3]}], [{:rebounds=> h_player2[4]}], [{:assists=> h_player2[5]}], [{:steals=> h_player2[6]}], [{:blocks=> h_player2[7]}], [{:slam_dunks=> h_player2[8]}]],
+  [[{:player_name=> h_player3[0]}], [{:number=> h_player3[1]}], [{:shoe=> h_player3[2]}], [{:points=> h_player3[3]}], [{:rebounds=> h_player3[4]}], [{:assists=> h_player3[5]}], [{:steals=> h_player3[6]}], [{:blocks=> h_player3[7]}], [{:slam_dunks=> h_player3[8]}]],
+  [[{:player_name=> h_player4[0]}], [{:number=> h_player4[1]}], [{:shoe=> h_player4[2]}], [{:points=> h_player4[3]}], [{:rebounds=> h_player4[4]}], [{:assists=> h_player4[5]}], [{:steals=> h_player4[6]}], [{:blocks=> h_player4[7]}], [{:slam_dunks=> h_player4[8]}]],
+  [[{:player_name=> h_player5[0]}], [{:number=> h_player5[1]}], [{:shoe=> h_player5[2]}], [{:points=> h_player5[3]}], [{:rebounds=> h_player5[4]}], [{:assists=> h_player5[5]}], [{:steals=> h_player5[6]}], [{:blocks=> h_player5[7]}], [{:slam_dunks=> h_player5[8]}]]
 ]
 
 away_attributes=
