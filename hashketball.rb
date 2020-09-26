@@ -32,7 +32,7 @@ away_attributes=
 home_stats=my_hash(:team_name, home_team_name).merge(my_hash(:colors, home_team_color)).merge(my_hash(:players, home_attributes))
 away_stats=my_hash(:team_name, away_team_name).merge(my_hash(:colors, away_team_color)).merge(my_hash(:players, away_attributes))
 game_hash=my_hash(:home, home_stats).merge(my_hash(:away, away_stats))
-game_hash
-test_hash = my_hash(:number, 0)
+return game_hash
+
 #binding.pry
 end
